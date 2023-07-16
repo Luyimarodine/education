@@ -26,10 +26,10 @@ def main():
     community_outreach(dumpsite_children)
 
 # List of Variables:
- # child: Represents an individual dumpsite child
- #dumpsite_children: List of dumpsite children
+  child: Represents an individual dumpsite child
+ dumpsite_children: List of dumpsite children
 
-2.
+# 2.
 def provide_scholarship(child):
     """
     Provides a scholarship for a dumpsite child to support their educational expenses.
@@ -52,14 +52,14 @@ def main():
     Calls the function to establish scholarships.
     """
     dumpsite_children = [...]
-  # List of dumpsite children
+  // List of dumpsite children
     establish_scholarships(dumpsite_children)
 
-# List of Variables:
- # child: Represents an individual dumpsite child
+// List of Variables:
+ // child: Represents an individual dumpsite child
  #dumpsite_children: List of dumpsite children
 
-3.
+# 3.
 def conduct_health_education(child):
     """
     Conducts health education for a dumpsite child.
@@ -84,9 +84,9 @@ def main():
     dumpsite_children = [...]  # List of dumpsite children
     health_education(dumpsite_children)
 
-# List of Variables:
- # child: Represents an individual dumpsite child
- # dumpsite_children: List of dumpsite children
+// List of Variables:
+ // child: Represents an individual dumpsite child
+ // dumpsite_children: List of dumpsite children
 
 
 
